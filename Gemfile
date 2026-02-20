@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
+# Jekyll version comes from github-pages; do not add a separate gem 'jekyll'
 group :jekyll_plugins do
-  gem 'jekyll'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'

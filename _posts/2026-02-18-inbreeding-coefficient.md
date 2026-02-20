@@ -31,7 +31,7 @@ $$
 
 We use an example generated with the [quickped](https://github.com/magnusdv/quickped) project:
 
-![](https://files.mdnice.com/user/163289/0104023d-3fa5-4f7e-9fb6-87b8f9e42ad8.png)
+![Pedigree example for inbreeding coefficient calculation](/images/post/2026/02/inbreeding-pedigree.png)
 
 Blue squares and red circles denote males and females respectively. We compute the inbreeding coefficient of individual 18. The path method requires finding all distinct paths and summing their contributions.
 
