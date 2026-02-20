@@ -20,4 +20,3 @@ You can find my open-source work on GitHub: [**@Thymine2001**](https://github.co
 - **[pedivieweR](https://github.com/Thymine2001/pedivieweR)** — Shiny app for viewing and analyzing pedigree data with network visualization
 - **[easyblup](https://github.com/Thymine2001/easyblup)** — Helper for generating parameter files for blupf90
 
-This site is my academic portfolio. Use the menu for Publications, Talks, Teaching, Portfolio, and CV.

@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Huangyi Tang",
-    "email": "",
+    "email": "tanghuangyi486@gmail.com",
     "phone": "",
     "website": "https://thymine2001.github.io",
-    "summary": "Researcher at Purdue University. Building tools for data QC and breeding analytics (R/Shiny). Open-source projects: easybreedeR, dataprevieweR, pedivieweR, easyblup.",
+    "summary": "Researcher at Purdue University. Building tools for data QC and breeding analytics (R/Shiny). Open-source: easybreedeR, dataprevieweR, pedivieweR, easyblup.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -20,105 +20,108 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Purdue University",
+      "position": "Researcher",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Building tools for data QC and breeding analytics (R/Shiny). Open-source projects: easybreedeR, dataprevieweR, pedivieweR, easyblup."
+    },
+    {
+      "company": "",
+      "position": "Teaching Assistant",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Undergraduate course \"R Language – Statistics and Analysis of Livestock Data\""
+    }
+  ],
   "education": [
     {
       "institution": "Purdue University",
-      "area": "",
+      "area": "Animal breeding / quantitative genetics",
       "studyType": "",
       "startDate": "",
       "endDate": "",
       "gpa": null,
       "courses": []
+    },
+    {
+      "institution": "China Agricultural University",
+      "area": "Animal Husbandry and Agriculture",
+      "studyType": "M.S.",
+      "startDate": "2022-09",
+      "endDate": "2024-06",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Zhongkai University of Agriculture and Engineering",
+      "area": "Animal Science",
+      "studyType": "B.S.",
+      "startDate": "2018-09",
+      "endDate": "2022-06",
+      "gpa": null,
+      "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Languages & tools",
+      "level": "",
+      "keywords": ["R", "Linux", "PLINK", "DMU"]
+    },
+    {
+      "name": "Software",
+      "level": "",
+      "keywords": ["R Shiny", "data QC", "breeding analytics"]
+    }
+  ],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {"name": "Animal breeding"},
+    {"name": "Quantitative genetics"},
+    {"name": "Hereditary defective disorder"}
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Construction and application of a reference population for genomic selection of reproductive traits in large white pigs in Hebei province",
+      "publisher": "Chinese Journal of Animal Science",
+      "releaseDate": "2023-08-01",
+      "website": "",
+      "summary": "Huangyi Tang, Xue Wang, Fei Luo, et al. Chinese Journal of Animal Science, 2023, 59(8): 131-135."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Analysis of genomic selection effects of low-density 10K liquid chip",
+      "publisher": "The 22nd National Symposium on Animal Genetic Breeding",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "Huangyi Tang, ChuanJiang Lian, ChangLong Du, et al. Taiyuan, China, 2023: 164-165."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Effects of different water change frequencies on the development of breast and leg muscles in Magang goose chicks under semi-arid culture mode",
+      "publisher": "Chinese Journal of Animal Science",
+      "releaseDate": "2023-04-01",
+      "website": "",
+      "summary": "JinHui Wang, Huangyi Tang, WenJun Chen, et al. Chinese Journal of Animal Science, 2023, 59(04): 279-286."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Studies on the Rule of Early Growth and Development of Body Traits of Magang Goose",
+      "publisher": "Chinese Journal of Animal Science",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": "Jun Tang, Huangyi Tang, Xu Shen, et al. Chinese Journal of Animal Science, 2021, 57(01): 58-62."
+    },
+    {
+      "name": "Effect of water pollution in bathing pools on the development of tibiae in Magang goose chicks",
+      "publisher": "Journal of Zhongkai University of Agricultural and Engineering",
+      "releaseDate": "2021-03-01",
+      "website": "",
+      "summary": "Mengxu Zhang, Huangyi Tang, Jinhui Wang, et al. 2021, 34(03): 6-11."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
